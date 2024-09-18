@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: UI/UX Design Agency
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
