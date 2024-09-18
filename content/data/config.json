@@ -33,7 +33,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/image.png",
-            "altText": "altText of the image",
+            "altText": "Logo of the website",
             "caption": "Caption of the image",
             "elementId": ""
         }
