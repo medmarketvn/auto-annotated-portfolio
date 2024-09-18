@@ -80,6 +80,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: UI/UX Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
